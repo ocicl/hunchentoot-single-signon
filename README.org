@@ -1,0 +1,10 @@
+* hunchentoot-single-signon
+
+SPNEGO implementation for Hunchentoot
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lokedhs/hunchentoot-single-signon.git   |
+| commit  | 66e6861  |
+| systems | hunchentoot-single-signon |
+|---------+-------------------------------------------|
+
